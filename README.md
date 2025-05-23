@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaib-shah&label=Profile%20views&color=0e75b6&style=flat" alt="khubaib-shah" /> </p>
 
 
-- 🔭 I’m currently working on [Trendix](https://trendix-mu.vercel.app/)
+- 🔭 I’m currently working on [Azzipizza](https://azzipizza.it)
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **khubaibsyed820@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HrV8wCprzzSLkKWa6q90JGC0Vu_U1fsm/view?usp=drivesdk](https://drive.google.com/file/d/1HrV8wCprzzSLkKWa6q90JGC0Vu_U1fsm/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HrV8wCprzzSLkKWa6q90JGC0Vu_U1fsm/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can code for enjoyment**
 
