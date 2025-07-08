@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **khubaibsyed820@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1AKE94wg39O3y3mc_PxZ9uvjX6Cncnl_Q/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)
 
 - ⚡ Fun fact **I can code for enjoyment**
 
