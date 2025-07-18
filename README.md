@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **khubaibsyed820@gmail.com**
+- 📫 How to reach me **khubaibsyed@icloud.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)
 
