@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://khubaib-portfolio-seven.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://khubaib-portfolio-seven.vercel.app)
 
 - 💬 Ask me about **MERN**
 
