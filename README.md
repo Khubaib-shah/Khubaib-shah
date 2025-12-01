@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Azzipizza](https://azzipizza.it)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **MERN stack development**
 
