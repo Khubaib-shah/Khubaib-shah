@@ -6,21 +6,19 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaib-shah&label=Profile%20views&color=0e75b6&style=flat" alt="khubaib-shah" /> </p>
 
 
-- 🔭 I’m currently working on [Azzipizza](https://azzipizza.it)
+- 🔭 I’m currently working on [GymFlow]([https://azzipizza.it](https://gymflow-management.vercel.app/))
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **PostgresSql**
 
 - 👯 I’m looking to collaborate on **MERN stack development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://thekhubaib.me)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me anything about **MERN Stack**
 
 - 📫 How to reach me **khubaibsyed@icloud.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)
-
-- ⚡ Fun fact **I can code for enjoyment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
