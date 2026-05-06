@@ -1,99 +1,102 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi, I'm Khubaib</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<div align="center">
+  <img src="https://github.com/khubaib-shah/khubaib-shah/raw/main/banner.png" width="100%" alt="Banner" />
+  
+  <br/>
+  
+  <h1><img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/handshake.gif" width="30px"> Hi, I'm Khubaib Shah</h1>
+  
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Expert;GSAP+%26+Framer+Motion;Laravel+Developer;Proudly+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+    </a>
+  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khubaib-shah&label=Profile%20views&color=0e75b6&style=flat" alt="khubaib-shah" /> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=khubaib-shah&label=Profile%20views&color=0e75b6&style=flat-square" alt="khubaib-shah" />
+  </p>
+</div>
 
+<hr/>
 
-- 🔭 I’m currently working on [GymFlow]([https://azzipizza.it](https://gymflow-management.vercel.app/))
+### 🔭 About Me
+- 🔭 Currently refining **[GymFlow](https://gymflow-management.vercel.app/)** — A comprehensive gym management solution.
+- 🌱 Deepening my expertise in **PostgreSQL** and scalable database design.
+- 👯 Eager to collaborate on high-impact **MERN Stack** projects.
+- 👨‍💻 Explore my work at **[thekhubaib.me](https://thekhubaib.me)**.
+- 💬 Ask me about **MERN Stack**, **Performance Optimization**, or **UI/UX Design**.
+- 📫 Reach out: **[khubaibsyed@icloud.com](mailto:khubaibsyed@icloud.com)**.
+- 📄 View my journey: **[My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)**.
 
-- 🌱 I’m currently learning **PostgresSql**
+<hr/>
 
-- 👯 I’m looking to collaborate on **MERN stack development**
+### 🛠️ Languages and Tools
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://thekhubaib.me)
-
-- 💬 Ask me anything about **MERN Stack**
-
-- 📫 How to reach me **khubaibsyed@icloud.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)
-
-<h3 align="left">Connect with me:</h3>
+#### 💻 Frontend
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khubaib-baacha-30a5132b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khubaib-baacha-30a5132b0" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/khubaib2004.1978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khubaib2004.1978" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,zustand,tailwind,bootstrap&theme=dark" />
+  </a>
+  <br/>
+  <a href="https://greensock.com/gsap/">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  </a>
+  <a href="https://www.framer.com/motion/">
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+#### ⚙️ Backend & Databases
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,postgres,redis,firebase&theme=dark" />
   </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>  
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>  
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"     height="40"/>
-  </a> 
-  
 </p>
 
+#### 🔧 Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,figma&theme=dark" />
+  </a>
+</p>
 
+<hr/>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khubaib-shah&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
+</div>
+
+<hr/>
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khubaib-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaib-shah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khubaib-shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<hr/>
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/khubaib-baacha-30a5132b0" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/khubaib2004.1978" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:khubaibsyed@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" />
+</div>
