@@ -3,7 +3,7 @@
   
   <br/>
   
-  <h1><img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/handshake.gif" width="30px"> Hi, I'm Khubaib Shah</h1>
+  <h1>Hi, I'm Khubaib Shah</h1>
   
   <h3>
     <a href="https://git.io/typing-svg">
