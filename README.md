@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/khubaib-shah/khubaib-shah/raw/main/banner.png" width="100%" alt="Banner" />
   
   <br/>
   
