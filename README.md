@@ -72,8 +72,10 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khubaib-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khubaib-shah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-streak-vercel.vercel.app?user=khubaib-shah&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </div>
 
 <br/>
