@@ -18,10 +18,10 @@
 <hr/>
 
 ### 🔭 About Me
-- 🔭 Currently refining **[GymFlow](https://gymflow-management.vercel.app/)** — A comprehensive gym management solution.
+- 🔭 Currently refining **[KS Online Ordering Platform](https://https://dashboard.azfoodcorner.com/)** — A comprehensive gym management solution.
 - 🌱 Deepening my expertise in **PostgreSQL** and scalable database design.
 - 👯 Eager to collaborate on high-impact **MERN Stack** projects.
-- 👨‍💻 Explore my work at **[thekhubaib.me](https://www.thekhubaib.me)**.
+- 👨‍💻 Explore my work at **[www.thekhubaib.me](https://www.thekhubaib.me)**.
 - 💬 Ask me about **MERN Stack**, **Performance Optimization**, or **UI/UX Design**.
 - 📫 Reach out: **[syedkhubaibshah@icloud.com](mailto:syedkhubaibshah@icloud.com)**.
 - 📄 View my journey: **[My Resume](https://drive.google.com/file/d/1qA4Khyg_-p_WGtfn8jnQRh0NpNmig43a/view)**.
