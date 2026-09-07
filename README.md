@@ -32,9 +32,11 @@
 
 #### 💻 Frontend
 <p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,zustand,tailwind,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,mongodb,postgres,prisma,redis,graphql,apollo,docker,vercel,git,github,figma&theme=dark&perline=10" />
   </a>
+</p>
   <br/>
   <a href="https://greensock.com/gsap/">
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
@@ -46,15 +48,15 @@
 
 #### ⚙️ Backend & Databases
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,postgres,redis,firebase&theme=dark" />
-  </a>
+ <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,laravel,mongodb,postgres,redis,firebase,prisma,graphql,apollo,docker,vercel,git,github,figma&theme=dark&perline=10" />
+</a>
 </p>
 
 #### 🔧 Others
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,figma&theme=dark" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vercel,figma,vite,webpack,jest,cypress&theme=dark&perline=10" />
   </a>
 </p>
 
