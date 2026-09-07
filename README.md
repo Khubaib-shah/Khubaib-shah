@@ -60,28 +60,36 @@
 </p>
 
 <hr/>
-
 ### 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khubaib-shah&theme=tokyonight&no-bg=true&margin-w=4&title=-Experience" alt="GitHub Trophies" />
-  </a>
+  <img
+    src="./profile/trophy.svg"
+    alt="GitHub Trophies"
+  />
 </div>
 
 <hr/>
 
 ### 📊 GitHub Analytics
+
 <div align="center">
   <img
-    src="https://github-readme-streak-vercel.vercel.app?user=khubaib-shah&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="./profile/github-stats.svg"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile/top-languages.svg"
+    alt="Top Languages"
   />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khubaib-shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="./profile/github-streak.svg"
+    alt="GitHub Streak"
+  />
 </div>
 
 <hr/>
