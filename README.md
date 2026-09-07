@@ -29,15 +29,14 @@
 <hr/>
 
 ### 🛠️ Languages and Tools
-
 #### 💻 Frontend
-<p align="left">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,mongodb,postgres,prisma,redis,graphql,apollo,docker,vercel,git,github,figma&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui&theme=dark&perline=10" />
   </a>
 </p>
-  <br/>
+
+<p align="center">
   <a href="https://greensock.com/gsap/">
     <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
   </a>
@@ -47,15 +46,15 @@
 </p>
 
 #### ⚙️ Backend & Databases
-<p align="left">
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,laravel,mongodb,postgres,redis,firebase,prisma,graphql,apollo,docker,vercel,git,github,figma&theme=dark&perline=10" />
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,postgres,redis,firebase,prisma,graphql,apollo&theme=dark&perline=10" />
+  </a>
 </p>
 
-#### 🔧 Others
-<p align="left">
-    <a href="https://skillicons.dev">
+#### 🔧 Tools & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,aws,docker,vercel,figma,vite,webpack,jest,cypress&theme=dark&perline=10" />
   </a>
 </p>
@@ -65,7 +64,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khubaib-shah&theme=tokyonight&no-bg=true&margin-w=4&title=-Experience" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=khubaib-shah&theme=tokyonight&no-bg=true&margin-w=4&title=-Experience" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -87,10 +86,10 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/khubaib-shah" target="blank">
+  <a href="https://linkedin.com/in/khubaib-shah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/Khubaibshah21" target="blank">
+  <a href="https://fb.com/Khubaibshah21" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:khubaibsyed820@gmail.com">
@@ -99,5 +98,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" alt="Footer" />
 </div>
