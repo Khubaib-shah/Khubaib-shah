@@ -1,16 +1,11 @@
-        <!-- ========================================================= -->
-<!--  SYED KHUBAIB SHAH — CREATIVE FULL-STACK DEVELOPER README -->
-<!-- ========================================================= -->
+
 
 <div align="center">
 
   <!-- Animated Gradient Wave Header -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:1E3A8A,100:2563EB&height=230&section=header&text=Syed%20Khubaib%20Shah&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Architect%20%E2%80%A2%20UI%20%26%20Motion%20Engineer&descSize=19&descAlignY=62&animation=fadeIn"
-    width="100%"
-    alt="Syed Khubaib Shah — Full-Stack Architect & UI Motion Engineer"
-  />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=230&section=header&text=Syed%20Khubaib%20Shah&fontSize=42&fontColor=FFFFFF" width="100%" alt="Syed Khubaib Shah" />
+</p>
   <!-- Animated Typing Tagline -->
   <a href="https://thekhubaib.me">
     <img
@@ -185,7 +180,7 @@
 
 #### Cloud, Testing &amp; Visual Design Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,docker,aws,vercel,firebase,git,vite,cypress&theme=dark&perline=8" alt="Cloud and Design Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,docker,vercel,firebase,git,vite,cypress&theme=dark&perline=8" alt="Cloud and Design Stack" />
 </p>
 
 </div>
@@ -195,16 +190,6 @@
 ### GitHub Engineering Activity
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-vercel.vercel.app?user=khubaib-shah&theme=tokyonight&hide_border=true&ring=2563EB&fire=60A5FA&currStreakLabel=60A5FA"
-    alt="GitHub Streak"
-  />
-  <br/><br/>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khubaib-shah&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA"
-    alt="Top Languages"
-  />
-  <br/><br/>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Khubaib-shah&bg_color=0D1117&color=E6EDF3&line=2563EB&point=60A5FA&area=true&hide_border=true"
     width="100%"
