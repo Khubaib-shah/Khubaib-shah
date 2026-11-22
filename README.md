@@ -63,101 +63,126 @@
 ---
 
 ### Selected Production Work & Interactive Demos
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>3Auqab Perfume Boutique</h3>
-      <p><sub><strong>Luxury E-Commerce &amp; Headless CMS</strong> · 2026</sub></p>
+      <h3>ElectroBiz POS &amp; Installments ERP</h3>
+      <p><sub><strong>Commercial Retail POS &amp; Finance ERP</strong> · 2026</sub></p>
       <p>
-        Mobile-first luxury fragrance storefront engineered with Next.js 16 and Neon PostgreSQL, featuring optimistic cart/wishlist interactions and direct WhatsApp CRM order fulfillment.
+        Production retail POS &amp; installment ERP for electronics showrooms featuring CNIC verification, automated monthly payment schedules, overdue aging reports, and bilingual Urdu/English receipt printing.
       </p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Neon PostgreSQL</code> <code>Tailwind CSS</code> </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>POS Engine</code></p>
       <p>
-        <a href="https://auqab-perfume.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/3Auqab-Perfume"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+        <a href="https://electrobiz.netlify.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>GymFlow Multi-Tenant SaaS</h3>
-      <p><sub><strong>SaaS Platform &amp; Biometric Suite</strong> · 2026</sub></p>
+      <h3>Clinic Management System</h3>
+      <p><sub><strong>Healthcare EMR &amp; Clinic ERP</strong> · 2026</sub></p>
       <p>
-        Zero-friction fitness operations platform handling member subscriptions, attendance tracking, and financial dashboards—paired with an offline-first biometric check-in desktop app.
+        End-to-end clinical operations platform uniting patient registration, doctor appointment queues, digital EMR &amp; prescriptions, visit billing, and real-time daily clinic revenue summaries.
       </p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
       <p>
-        <a href="https://gymflow-management.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/GMS-saas"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+        <a href="https://YOUR-CLINIC-LIVE-URL.com"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Munshi Wholesale CRM &amp; Distribution ERP</h3>
+      <p><sub><strong>B2B Wholesale &amp; Warehouse CRM</strong> · 2026</sub></p>
+      <p>
+        B2B wholesale inventory &amp; distribution command center with multi-shelf warehouse stocking, real-time SKU tracking, dealer credit limits, purchase invoicing, and automated ledger balancing.
+      </p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Ledger Engine</code></p>
+      <p>
+        <a href="https://munshe.netlify.app"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>KS Ordering Management Platform</h3>
+      <p><sub><strong>Multi-Tenant Restaurant &amp; Dispatch SaaS</strong> · 2026</sub></p>
+      <p>
+        Multi-tenant restaurant management suite powering live online ordering storefronts, real-time POS order routing, multi-branch kitchen workflows, promo vouchers, and customer dispatch.
+      </p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Real-Time POS</code></p>
+      <p>
+        <a href="https://azfoodcorner.com/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Al-Madina Poultry — Farm &amp; Shop ERP</h3>
+      <p><sub><strong>Poultry Operations &amp; FIFO Accounting PWA</strong> · 2026</sub></p>
+      <p>
+        Mobile-first enterprise PWA for live poultry procurement and retail sales—covering truck-to-batch landed-cost accounting, FIFO bird-lot inventory, wholesale &amp; counter billing, dealer ledgers, and live P&amp;L.
+      </p>
+      <p><code>Next.js PWA</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>FIFO Accounting</code></p>
+      <p>
+        <a href="https://checkin.thekhubaib.me/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Studio Book CRM</h3>
+      <p><sub><strong>Wedding &amp; Event Studio Operations CRM</strong> · 2026</sub></p>
+      <p>
+        Complete studio operations platform featuring multi-event booking pipelines, structured 50/40/10 milestone billing, crew assignment scheduling, client portals, and 12-month financial analytics.
+      </p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Analytics</code></p>
+      <p>
+        <a href="https://studio-book-demo.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Trip Trails Travel ERP &amp; COA</h3>
-      <p><sub><strong>Enterprise ERP &amp; Accounting</strong> · 2026</sub></p>
+      <p><sub><strong>Enterprise Travel ERP &amp; Double-Entry GL</strong> · 2026</sub></p>
       <p>
-        Production travel ERP &amp; CRM featuring multi-branch operations, automated itinerary bookings, a complete double-entry Chart of Accounts ledger, and resilient offline-first caching.
+        Production travel ERP &amp; CRM featuring multi-branch operations, automated itinerary bookings, a complete double-entry Chart of Accounts ledger across 42 relational models, and PDF document engines.
       </p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Redis</code></p>
       <p>
-        <a href="https://triptrails.thekhubaib.me"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/Trip-Trails-CRM-ERP-COA"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Modern Interior Design Studio</h3>
-      <p><sub><strong>Editorial UI &amp; Architectural Web</strong> · 2026</sub></p>
-      <p>
-        Gallery-paced architectural portfolio built with Next.js &amp; Tailwind CSS, emphasizing clean typographic hierarchy, curated case-study pages, and responsive visual storytelling.
-      </p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
-      <p>
-        <a href="https://interior-design-khubaib.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/Modern-Interior-Design"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AzziPizza Ordering Ecosystem</h3>
-      <p><sub><strong>Real-Time Food Commerce</strong> · 2025</sub></p>
-      <p>
-        Full-stack real-time pizza ordering system deployed in production for AzziPizza Italy, uniting live order state updates, payment integration, and an operational admin dashboard.
-      </p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind CSS</code></p>
-      <p>
-        <a href="https://azzipizza.it"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/Azzipizza"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+        <a href="https://triptrails.thekhubaib.me"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Liquid Brokers Motion Hero</h3>
-      <p><sub><strong>Interactive UI &amp; Motion Study</strong> · 2026</sub></p>
+      <h3>GymFlow Multi-Tenant SaaS</h3>
+      <p><sub><strong>B2B Fitness SaaS &amp; Biometric Suite</strong> · 2026</sub></p>
       <p>
-        High-impact fintech hero showcase demonstrating smooth GSAP choreography, crisp layout geometry, and 60fps micro-interactions crafted with TypeScript.
+        Zero-friction multi-tenant fitness operations platform handling member subscriptions, Stripe billing, attendance tracking, and financial dashboards—paired with an offline-first biometric check-in app.
       </p>
-      <p><code>TypeScript</code> <code>React</code> <code>GSAP</code> <code>Tailwind CSS</code></p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Stripe</code></p>
       <p>
-        <a href="https://liquid-brokers-hero.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
-        <a href="https://github.com/Khubaib-shah/liquid-brokers-hero"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
+        <a href="https://gymflow-management.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><strong>Explore More Shipped Projects (Mobile, Fintech &amp; Interactive Apps)</strong></summary>
+  <summary><strong>Explore More Live Production Platforms (Commerce, AI SaaS &amp; Education)</strong></summary>
   <br/>
 
-  | Project | Domain | Highlights | Links |
+  | Project | Domain | Highlights | Live Link |
   | :--- | :--- | :--- | :--- |
-  | **Microfinance Web App** | Fintech / RBAC | Multi-role MERN lending, savings tracking &amp; admin dashboards | [Live](https://smit-final-backend.vercel.app) · [Code](https://github.com/Khubaib-shah/Microfinance-Web-App) |
-  | **Grocery Delivery App** | React Native Mobile | 3-sided Customer / Admin / Rider app with live GPS tracking | [Code](https://github.com/Khubaib-shah/grocery-delivery-app) |
-  | **LeadDesk CRM** | Sales / TypeScript | Streamlined lead pipeline and client conversion dashboard | [Live](https://leaddesk-coral.vercel.app) · [Code](https://github.com/Khubaib-shah/LeadDesk) |
-  | **GTA 6 Excuse Generator** | Viral Interactive UI | 288 instant bilingual templates with shareable PNG card export | [Live](https://gta-6-excuse-generator.vercel.app) · [Code](https://github.com/Khubaib-shah/GTA-6-Excuse-Generator) |
+  | **3Auqab Perfume Boutique** | Luxury E-Commerce &amp; CMS | Mobile-first Next.js 16 fragrance storefront with Neon PostgreSQL &amp; WhatsApp CRM fulfillment | [Live Platform ↗](https://auqab-perfume.vercel.app) |
+  | **AzziPizza Italy** | Real-Time Food Commerce | Full-stack live pizza ordering ecosystem deployed in production with payment &amp; admin suite | [Live Platform ↗](https://azzipizza.it) |
+  | **ApplyOS** | AI SaaS Engine | ATS-tailored resume &amp; cover letter platform powered by Google Gemini &amp; Stripe billing | [Live Platform ↗](https://apply-os-demo.vercel.app/) |
+  | **Feeva School Management** | Education ERP | Academic operations suite for fee invoicing, enrollment, attendance &amp; administration | [Live Platform ↗](https://feeva.vercel.app/) |
+  | **LeadDesk CRM** | Sales Pipeline CRM | Streamlined lead pipeline tracking and client conversion dashboard | [Live Platform ↗](https://leaddesk-coral.vercel.app) |
 
 </details>
-
 ---
 
 ### Technical & Visual Stack
