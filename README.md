@@ -40,21 +40,19 @@
 ### Craft & Engineering Philosophy
 
 > *"Great software shouldn't make users choose between architectural depth and visual beauty. I engineer scalable multi-tenant SaaS systems, double-entry ERPs, and high-converting storefronts—then finish every pixel with fluid 60fps motion."*
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>Currently Architecting</h4>
       <p>
-        Scaling <a href="https://gymflow-management.vercel.app/"><strong>GymFlow SaaS</strong></a> (multi-tenant fitness operations &amp; biometric desktop suite) and <a href="https://auqab-perfume.vercel.app"><strong>3Auqab Boutique</strong></a> (luxury Next.js 16 headless commerce with Neon PostgreSQL).
+        Scaling <a href="https://azfoodcorner.com/"><strong>KS Ordering Management Platform</strong></a> (multi-tenant restaurant ordering, real-time POS &amp; multi-branch dispatch workflows) and a full-stack <a href="https://clinic-management-system-six-sigma.vercel.app/"><strong>Clinic Management System</strong></a> (patient EMR, doctor appointment queues, digital prescriptions &amp; clinical billing).
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>Core Focus Areas</h4>
       <ul>
-        <li><strong>UI &amp; Motion Design:</strong> Editorial layouts, GSAP choreography, Framer Motion micro-interactions</li>
-        <li><strong>Systems Architecture:</strong> Multi-branch ERPs, double-entry accounting (COA), offline-first sync</li>
-        <li><strong>Full-Stack Delivery:</strong> Next.js 16, TypeScript, MERN, Laravel &amp; PostgreSQL</li>
+        <li><strong>Systems Architecture:</strong> Multi-tenant SaaS, commercial POS &amp; ERPs, double-entry accounting (COA), and offline-first PWAs</li>
+        <li><strong>Full-Stack Delivery:</strong> Next.js 16, TypeScript, React, Node.js, PostgreSQL &amp; high-FPS UI systems</li>
       </ul>
     </td>
   </tr>
@@ -85,7 +83,7 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
       <p>
-        <a href="https://YOUR-CLINIC-LIVE-URL.com"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
+        <a href="https://clinic-management-system-six-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
         <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
