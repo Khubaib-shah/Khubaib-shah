@@ -77,7 +77,7 @@
       <p>
         Mobile-first luxury fragrance storefront engineered with Next.js 16 and Neon PostgreSQL, featuring optimistic cart/wishlist interactions and direct WhatsApp CRM order fulfillment.
       </p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Neon PostgreSQL</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Neon PostgreSQL</code> <code>Tailwind CSS</code> </p>
       <p>
         <a href="https://auqab-perfume.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
         <a href="https://github.com/Khubaib-shah/3Auqab-Perfume"><img src="https://img.shields.io/badge/Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/></a>
