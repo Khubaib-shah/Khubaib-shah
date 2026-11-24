@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h4>Currently Architecting</h4>
       <p>
-        Scaling <a href="https://azfoodcorner.com/"><strong>KS Ordering Management Platform</strong></a> (multi-tenant restaurant ordering, real-time POS &amp; multi-branch dispatch workflows) and a full-stack <a href="https://clinic-management-system-six-sigma.vercel.app/"><strong>Clinic Management System</strong></a> (patient EMR, doctor appointment queues, digital prescriptions &amp; clinical billing).
+        Scaling <a href="https://azfoodcorner.com/"><strong>KS Ordering Management Platform</strong></a> multi-tenant restaurant ordering, Hybrid System POS, Accounts, Receipe Base Inventory &amp; multi-branch dispatch workflows and a full-stack <a href="https://clinic.thekhubab.me/"><strong>Clinic Management System</strong></a> (patient EMR, doctor appointment queues, digital prescriptions &amp; clinical billing).
       </p>
     </td>
     <td width="50%" valign="top">
