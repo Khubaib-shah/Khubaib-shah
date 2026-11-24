@@ -4,7 +4,7 @@
 
   <!-- Animated Gradient Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=230&section=header&text=Syed%20Khubaib%20Shah&fontSize=42&fontColor=FFFFFF" width="100%" alt="Syed Khubaib Shah" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=230&section=header&text=Syed%20Khubaib%20Shah&fontSize=42&fontColor=FFFFFF" width="100%" alt="Syed Khubaib Ali Shah" />
 </p>
   <!-- Animated Typing Tagline -->
   <a href="https://thekhubaib.me">
