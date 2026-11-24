@@ -71,7 +71,7 @@
       </p>
       <p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>POS Engine</code></p>
       <p>
-        <a href="https://electrobiz.netlify.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/></a>
+        <a href="https://electrobiz.thekhubaib.me/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live App"/></a>
         <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
@@ -83,7 +83,7 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Tailwind CSS</code></p>
       <p>
-        <a href="https://clinic-management-system-six-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
+        <a href=""><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live App"/></a>
         <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
@@ -135,7 +135,7 @@
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Analytics</code></p>
       <p>
-        <a href="https://studio-book-demo.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <a href="http://studiobook.thekhubaib.me/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
         <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
@@ -161,7 +161,7 @@
       </p>
       <p><code>Next.js 16</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Stripe</code></p>
       <p>
-        <a href="https://gymflow-management.vercel.app/"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
+        <a href="https://gymflow.thekhubaib.me"><img src="https://img.shields.io/badge/Live_App-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App"/></a>
         <img src="https://img.shields.io/badge/Private_Production-18181B?style=for-the-badge" alt="Private Production"/>
       </p>
     </td>
